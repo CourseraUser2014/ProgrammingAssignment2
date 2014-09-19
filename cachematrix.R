@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Programming Assignment 2
 ## edited by Courserauser2014 on 19/9/2014
 
 ## The function 'MakeCacheMatrix' initializes a variable with the given 
